@@ -1,0 +1,7 @@
+
+
+7/24/2013
+copied package.json file over
+npm install socket.io 
+npm install socket.io express 
+npm install coffees-script
